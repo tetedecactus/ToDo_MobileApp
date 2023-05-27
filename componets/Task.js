@@ -40,6 +40,7 @@ const styles = StyleSheet.create({
     },
     itemText: {
         maxWidth: '80%',
+        color: 'blue',
     },
     circular : {
         width: 12,
